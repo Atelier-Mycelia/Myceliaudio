@@ -1,0 +1,14 @@
+{
+  "name": "com.ateliermycelia.myceliaudio",
+  "version": "1.2.1",
+  "displayName": "Myceliaudio",
+  "description": "A robust, royalty-free and user-friendly audio system for the Unity Game Engine. \nVersions supported: 2022.3.30 and later",
+  "unity": "2022.3",
+  "author": {
+    "name": "Atelier Mycelia"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6",
+    "com.ateliermycelia.unityutils": "1.0.2"
+  }
+}
