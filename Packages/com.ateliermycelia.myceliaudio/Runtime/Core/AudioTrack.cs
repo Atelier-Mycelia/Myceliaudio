@@ -7,7 +7,7 @@ namespace AtMycelia.Myceliaudio
     /// <summary>
     /// Helper class for that also kind of wraps Unity's built-in AudioSource component
     /// </summary>
-    public class AudioTrack : IAudioTrackTweenables
+    public class AudioTrack : IAudioTrack
     {
         public virtual int ID
         {
