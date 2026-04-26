@@ -1,0 +1,17 @@
+{
+    "name": "AtMycelia.Myceliaudio.Extensions.Timeline",
+    "rootNamespace": "",
+    "references": [
+        "GUID:496102a5b2b933b4e880e1094585516e",
+        "GUID:f06555f75b070af458a003d92f9efb00"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
