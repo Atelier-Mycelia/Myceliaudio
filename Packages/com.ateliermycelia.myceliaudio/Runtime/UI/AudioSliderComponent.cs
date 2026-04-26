@@ -1,4 +1,4 @@
-using AtMycelia.UI;
+using AtMycelia.Ui;
 using UnityEngine;
 using UnityEngine.UI;
 #if ENABLE_INPUT_SYSTEM

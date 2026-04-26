@@ -1,5 +1,5 @@
 using AtMycelia.Myceliaudio.Utils;
-using AtMycelia.UI;
+using AtMycelia.Ui;
 using UnityEngine;
 using PointerEventData = UnityEngine.EventSystems.PointerEventData;
 
