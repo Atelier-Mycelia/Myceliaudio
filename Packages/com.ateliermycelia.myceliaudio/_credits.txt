@@ -4,8 +4,8 @@
 ~Programming~
 	CG-Tespy
 
-~Fonts~
-	Gesine Todt
+~Third-Party SFX Assets~
+	JDSherbert
 
 ~Special Thanks~
 	GameDevTV
