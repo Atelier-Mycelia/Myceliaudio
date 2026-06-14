@@ -1,22 +1,13 @@
 {
   "dependencies": {
-    "com.ateliermycelia.myceliaudio": {
-      "version": "file:com.ateliermycelia.myceliaudio",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.unity.textmeshpro": "3.0.6",
-        "com.ateliermycelia.unityutils": "1.0.2"
-      }
-    },
-    "com.ateliermycelia.unityutils": {
-      "version": "https://github.com/Atelier-Mycelia/UnityUtils.git?path=Packages/com.ateliermycelia.unityutils",
+    "com.ateliermycelia.commonlib": {
+      "version": "https://github.com/Atelier-Mycelia/CommonLib.git?path=Assets/AtMyceliaCommonLib",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.textmeshpro": "3.0.6"
       },
-      "hash": "ab0c2f6f12657291f22c5e3862186433c5f676ca"
+      "hash": "b83654d6c07e7d7c2413358c24d5eaa1d09428f5"
     },
     "com.unity.ai.navigation": {
       "version": "1.1.5",

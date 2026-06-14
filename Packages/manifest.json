@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "com.ateliermycelia.unityutils": "https://github.com/Atelier-Mycelia/UnityUtils.git?path=Packages/com.ateliermycelia.unityutils",
-    "com.ateliermycelia.myceliaudio": "file:Packages/com.ateliermycelia.myceliaudio",
+    "com.ateliermycelia.commonlib": "https://github.com/Atelier-Mycelia/CommonLib.git?path=Assets/AtMyceliaCommonLib",
     "com.unity.ai.navigation": "1.1.5",
     "com.unity.cinemachine": "2.10.7",
     "com.unity.feature.development": "1.0.1",
